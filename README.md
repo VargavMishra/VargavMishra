@@ -12,6 +12,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=VargavMishra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VargavMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" 
+    src="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated using pacman-contribution-graph_
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VargavMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
