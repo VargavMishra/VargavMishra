@@ -23,7 +23,7 @@
     src="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated using pacman-contribution-graph_
+
 
 
 ## 🏆 GitHub Trophies
