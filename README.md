@@ -6,10 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vargavmishra-main-delta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VargavMishra)
-[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/vargavmishra7)
-[![X](https://img.shields.io/badge/X-111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Roftisloft)
-[![Twitch](https://img.shields.io/badge/Twitch-111?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://twitch.tv/Roft_tv)
-[![YouTube](https://img.shields.io/badge/YouTube-111?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@Roftisloft)
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vargavmishra2002@gmail.com)
 
 
