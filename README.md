@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio Website<br>👯 I’m looking to collaborate on HTML,CSS,Javascript<br>🤝 I’m looking for help with Java and Full Stack Development Projects<br>🌱 I’m currently learning Advance Java <br>💬 Ask me about Java and WebTech<br>⚡ Fun fact 
+🔭 I’m currently working on Building AI-powered web apps | Currently working on scalable deploy-ready projects <br>👯 I’m looking to collaborate on Looking to collaborate on full-stack and AI projects <br>🤝 I’m looking for help with Java and Full Stack Development Projects<br>🌱 I’m currently learning Advance Java <br>💬 Ask me about Java and WebTech<br>⚡ Fun fact about me is "I treat “just trying something” like a full startup launch"
 
 
 ## 🌐 Socials:
