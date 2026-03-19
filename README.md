@@ -17,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=VargavMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VargavMishra&theme=dark&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VargavMishra&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={VargavMishra}&theme={github_dark}&exclude={exclude})
 
 ## 👾 Pac-Man Contribution Graph
 
