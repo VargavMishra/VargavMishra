@@ -2,14 +2,15 @@
 🔭 I’m currently working on Building AI-powered web apps | Currently working on scalable deploy-ready projects <br>👯 I’m looking to collaborate on Looking to collaborate on full-stack and AI projects <br>🤝 I’m looking for help with Java and Full Stack Development Projects<br>🌱 I’m currently learning Advance Java <br>💬 Ask me about Java and WebTech<br>⚡ Fun fact is I treat “just trying something” like a full startup launch
 
 
-## 🌐 Socials:
-[![Website](https://img.shields.io)](https://vargavmishra-main-delta.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vargavmishra7) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VargavMishra) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Roft_tv) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Roftisloft) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Roftisloft)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vargavmishra2002@gmail.com)
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vargavmishra-main-delta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VargavMishra)
+[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/vargavmishra7)
+[![X](https://img.shields.io/badge/X-111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Roftisloft)
+[![Twitch](https://img.shields.io/badge/Twitch-111?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://twitch.tv/Roft_tv)
+[![YouTube](https://img.shields.io/badge/YouTube-111?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@Roftisloft)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vargavmishra2002@gmail.com)
 
 
 # 💻 Tech Stack:
