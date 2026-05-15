@@ -43,6 +43,7 @@
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepmind&logoColor=white)
 ![Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Minimax](https://img.shields.io/badge/minimax-B4393C?style=for-the-badge&logo=minimax&logoColor=white)
 
 ### 🧠 AI Tools / Platforms
 ![Lovable](https://img.shields.io/badge/Lovable-000000?style=for-the-badge)
